@@ -1,2 +1,3 @@
 # bikes-api
-EPITA Node.js Exam
+## AUTHOR : Theodore Guillot
+### EPITA Node.js Exam
