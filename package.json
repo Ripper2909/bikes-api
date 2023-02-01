@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Ripper2909/bikes-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.8.11"
+    "mongoose": "^5.13.15"
   }
 }
